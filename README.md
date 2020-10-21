@@ -1,5 +1,5 @@
 # Microservice - Netflix OSS
-Microservice Integrated Netflix OSS Components
+Microservice Integrated with following Netflix OSS Components
 
 <b>1. Service registry <i>(Eureka Server)</i></b><br>
 <b>2. Service Discovery <i>(Eureka Client)</i></b><br>
